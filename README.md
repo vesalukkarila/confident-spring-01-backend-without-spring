@@ -7,8 +7,7 @@ Basics of servlets, endpoints, services, domain objects and Tomcat.
 Basics of backend.
 
 ## Sources
-Based largely on learnings from Marco Behler's course "The confident Spring professional" https://www.marcobehler.com/ which I bought for myself in order to understand the fundamentals of Spring. 
-After going through the course twice trying out things on my own. Checking source code only when necessary and understanding better how everything works.
+Based largely on learnings from Marco Behler's course "The confident Spring professional" https://www.marcobehler.com/ which I bought for myself in order to understand the fundamentals of Spring. After going through the course twice going at it for the third time. Minimal comments for clarity, checking source code only when necessary.
 
 ## Use
 Endpoints for local use:
