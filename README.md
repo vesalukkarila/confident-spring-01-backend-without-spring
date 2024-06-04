@@ -13,5 +13,5 @@ Based largely on learnings from Marco Behler's course "The confident Spring prof
 Endpoints for local use:
 - GET "/" returns html greeting
 - GET "/invoices" returns all posted invoices as JSON
-- POST "/invoices?name=jeff&amount=40" creates an invoice and returns it as JSON
+- POST "/invoices?user_id=jeff&amount=40" creates an invoice and returns it as JSON
 - POST "/*" returns 404 
