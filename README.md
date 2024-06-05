@@ -1,5 +1,5 @@
 # simple-webapp
-Learning to create a simple backend for web application using Java without any Spring features
+Learning to create a simple backend for web application using Java without any Spring features.
 
 ## Learning goals
 For what need Spring is created.
