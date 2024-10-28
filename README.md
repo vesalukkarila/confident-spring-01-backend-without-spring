@@ -1,13 +1,15 @@
-# simple-webapp
-Learning to create a simple backend for web application using Java without any Spring features.
+# confident-spring-01-backend-without-spring
+This repository is related to module 1 in Marco Behler's course "The confident Spring professional" https://www.marcobehler.com/ which I purchased in order to understand the fundamentals of Spring. The course starts with plain Java backend and introduces plain Spring features little by little, showcasing what Spring Boot hides under the hood. At the end of the course Spring Boot features are implemented. 
 
-## Learning goals
-For what need Spring is created.
-Basics of servlets, endpoints, services, domain objects and Tomcat.
-Basics of backend.
-
-## Sources
-Based largely on learnings from Marco Behler's course "The confident Spring professional" https://www.marcobehler.com/ which I bought for myself in order to understand the fundamentals of Spring. After going through the course twice going at it for the third time. Minimal comments for clarity, checking source code only when necessary.
+## Learning goals, module 1
+In this module a simple backend is created using plain Java w/o any Spring features.    
+- Creating pom.xml by hand.  
+- Setup Tomcat.  
+- Servlet class with endpoints.  
+- Service layer.  
+- Domain class.  
+- Jackson dependency and annotations for handling JSON requests and responses.
+- "Poor man's dependency injection" using global Application class.
 
 ## Use
 Endpoints for local use:
